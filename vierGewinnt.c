@@ -1,7 +1,7 @@
     // 4 Gewinnt.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
     //
      
-    
+    // zeile hinzugefügt
     #include <stdlib.h>
     #include "spiel.h"
      
